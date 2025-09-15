@@ -2,7 +2,7 @@
 
 # Hi, I'm Hima Karthikeya 👋
 
-🎓 BTech CSE Student | 👨‍💻 Aspiring Software Engineer  
+🎓 BTech CSE Student |  
 🔥 Passionate about DSA & Fullstack Development  
 
 ## 🛠 Tech Stack
