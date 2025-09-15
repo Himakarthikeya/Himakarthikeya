@@ -15,8 +15,7 @@
 ## 📈 GitHub Stats
 ![Hima's GitHub stats](https://github-readme-stats.vercel.app/api?username=himakarthikeya&show_icons=true&theme=radical)
 
-## 📫 Reach me at:
-- [LinkedIn]( http://www.linkedin.com/in/himakarthikeya-jerrypothula-2a9041375)
-- [Portfolio](https://your-portfolio.com)
+
+
 
 
